@@ -1,4 +1,4 @@
-name: IndexNow
+name: IndexNowRoot
 
 on:
   push:
