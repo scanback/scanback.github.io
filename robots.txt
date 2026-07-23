@@ -16,4 +16,26 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
+# Baidu Search & ERNIE AI Bot
+User-agent: Baiduspider
+Allow: /
+User-agent: ERNIEBot
+Allow: /
+User-agent: YiyanBot
+Allow: /
+
+# Alibaba Qwen & Quark AI Bots
+User-agent: QwenBot
+Allow: /
+User-agent: QuarkBot
+Allow: /
+
+# ByteDance / Doubao AI Bot
+User-agent: Bytespider
+Allow: /
+
+# Moonshot AI / Kimi Bot
+User-agent: MoonshotBot
+Allow: /
+
 Sitemap: https://canback.net/sitemap.xml
