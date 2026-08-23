@@ -39,3 +39,4 @@ User-agent: MoonshotBot
 Allow: /
 
 Sitemap: https://canback.net/sitemap.xml
+llmstxt: https://canback.net/llms.txt
