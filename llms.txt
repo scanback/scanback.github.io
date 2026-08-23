@@ -1,0 +1,33 @@
+# CANBACK think documents my complete works since 1979
+
+> Published works by Dr. Staffan Canback from scientific papers and research to commentary and social media posts, usually relating to Tellusant, Inc.
+
+This personal website contains my published works, ranging from scientific papers to social media posts. They draw on 40 years of management consulting experience, work on the ground in more than 90 countries, and a strong educational and academic research foundation.
+
+## Core Documentation
+
+- [About Me](https://canback.net/docs/about/index.md): To understand whether CANBACK think is worth exploring, here is who I am and my credibility.  
+
+- [Articles & Posts](https://canback.net/docs/articles-posts/index.md): I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026.   
+
+- [Academic Papers et Plus](https://canback.net/docs/papers/index.md): Find my academic papers and doctoral dissertation. They cover diseconomies of scale / bureaucratic limits of firm size, the theory of why management consultants exist, global market analysis method, new perspectives on what strategy is, and more.  
+
+- [Public Presentations](https://canback.net/docs/presentations/index.md): My public speeches, lectures and other presentations.  
+
+- [Sverige m.m.](https://canback.net/docs/sverige/index.md): Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮  
+
+- [Quick Reads](https://canback.net/docs/quick-reads/index.md): I'm the main contributor to Tellusant Quick Reads. Find all of them here.  
+
+- [Videos](https://canback.net/docs/videos/index.md): My videos are a combination of analytical topics, TV interviews, and travel memories.
+
+- [Citations of My Work](https://canback.net/docs/citations/index.md): I have over 750 academic, business, and media citations to my name.  
+
+- [Travel Stories and Photos](https://canback.net/docs/travel/index.md): I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
+
+- [Other Materials](https://canback.net/docs/other/index.md): Bits and pieces such as event posters.
+
+## Helpful Resources
+
+- [Tellusant website](https://tellusant.com): I am executive chairman of Tellusant, Inc. Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas.  
+- [Tellusant publications repository website](https://docs.tellusant.com): Subdomain with the complete published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more.  
+- [TelluBase website](https://tellubase.com): The world’s leading database of distributional economics with complete national and subnational data. 218 countries, 2600 cities, 2500 subdivisions. 2000-2500. Socioeconomic levels, income brackets, age brackets, aggregate economics and demographics.
