@@ -39,7 +39,7 @@ User-agent: MoonshotBot
 Allow: /
 
 User-agent: *
-Disallow: /work-notes/
+Disallow: /*work-notes*/
 
 Sitemap: https://canback.net/sitemap.xml
 
