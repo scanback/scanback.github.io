@@ -38,4 +38,7 @@ Allow: /
 User-agent: MoonshotBot
 Allow: /
 
+User-agent: Yandex
+Disallow: /
+
 Sitemap: https://canback.net/sitemap.xml
