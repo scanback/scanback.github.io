@@ -19,14 +19,17 @@ Allow: /
 # Baidu Search & ERNIE AI Bot
 User-agent: Baiduspider
 Allow: /
+
 User-agent: ERNIEBot
 Allow: /
+
 User-agent: YiyanBot
 Allow: /
 
 # Alibaba Qwen & Quark AI Bots
 User-agent: QwenBot
 Allow: /
+
 User-agent: QuarkBot
 Allow: /
 
